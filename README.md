@@ -21,6 +21,6 @@ npm run deploy
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Simple-Javascript-Calculator/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/To-Do-List-React-App/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
